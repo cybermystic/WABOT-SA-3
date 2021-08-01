@@ -28,7 +28,7 @@
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
             "IM_NOT_ADMIN": "*njan admin allada aliya😥 sad bgm song please nanbaa🥺*",
-            "BANNED": "ninne eni evide veda eragi poda get out in the name of father stupid edit😏",
+            "BANNED": "ninne eni evide veda eragi poda get out 😏",
             "GIVE_ME_USER": "*arelum mention karo baii😎*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
@@ -73,7 +73,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Amalser Restarting...please wait chakare😌```",
+            "RESTART_MSG": "```wabot-sa Restarting...please wait chakare😌```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -167,7 +167,7 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*photo thaa mister! Allakil nirthi poda*",
-            "NO_API_KEY": "*Api key illa aliyaa athu kond sorry aliya*\n```remove.bg login for apikey```",
+            "NO_API_KEY": "*Api key illa aliyaa athu kond sorry aliya*\n``````",
             "RBGING": "```Removing...```"
         },
         "scrapers": {

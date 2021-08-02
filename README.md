@@ -1,18 +1,43 @@
-<div align="center">
-Its_me_Amal
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+  <img border-radius: 15px src="https://telegra.ph/file/555d3c58204893763b839.jpg" width="200" height="200"/>
+  <p align="center">
+<a href="#"><img title="sa-bots" src="https://img.shields.io/badge/sunaifnfc-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/sunaifnfc"><img title="Author" src="https://img.shields.io/badge/Author-sunaifnfc/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/sunaif-adkar">sunaif-adkar</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
+
+----
+
+  <p align="center">
+  <a href="httsp://github.com/sunaifnfc/JulieMwol">
+    <img src="https://img.shields.io/github/repo-size/sunaifnfc/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/sunaifnfc?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+</p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Jh3BjpsLdglJhDrea4ME52)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=WABOT-SA&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
-  </div>
+## BGM SUPPORTS 🎼
+  VKD48 & CHEGUTHAN
     
 ## Setup
 <div align="center">
@@ -21,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sunaifnfc/WaBot--SA.git)
      </div>
 <br>
 <br >
@@ -30,7 +55,30 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/Sunaifnfc/JulieMwol.git
+$ cd JulieMwol
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/Sunaifnfc/JulieMwol.git
+$ cd JulieMwol
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
 
 
 ### ⚠️ Warning! 
@@ -44,13 +92,24 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
-----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
-Base, Bug Fixes, Modules | 
-  
+  [![sunaif-adkar](https://github.com/sunaif-adkar.png?size=100)](https://github.com/sunaif-adkar) |  [![S46@$u.#404](https://telegra.ph/file/df002f5c5f138a17eb2a4.jpg?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) | [![SaMods](https://telegra.ph/file/73d6e190b1f18e12a87f8.png?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) 
+----|----|----
+[sunaif-adkar](https://github.com/sunaif-adkar)  | [S46@$u.#404](https://wa.me/message/N2MKXYOCTXS6K1) | [SaMods](https://wa.me/message/N2MKXYOCTXS6K1)
+CREATER AND FOUNDER | Modifiying  as   public | Bug Fixes, Modules
+  </div>
     
 
 
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
 
+## BUY ME A COFFEE :
+
+<p align="center">
+<a href="https://www.paypal.me/sunaifadkar"><img title="sunaif-adkar" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+</p>
+
+
+
+## Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark

@@ -25,7 +25,7 @@ Click WA logo to Join Support Group 👇
   <div align="center">
        
 ## BGM SUPPORTS 🎼
-  VKD48 & CHEGUTHAN
+  SMILE & SUNAIF & SARASU
     
 ## Setup
 <div align="center">

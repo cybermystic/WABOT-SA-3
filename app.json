@@ -1,9 +1,9 @@
 {
-    "name": "Amalser",
+    "name": "WABOT-SA",
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg",
+    "logo": "https://telegra.ph/file/086e98c97f4d936dceae0.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/cyberchekuthan/Amalser_v1",
+    "repository": "https://github.com/sunaif-adkar2/WABOT-SA-3",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",

@@ -18,17 +18,6 @@ Project created by <a href="https://github.com/sunaif-adkar">sunaif-adkar</a> to
 
 ----
 
-  <p align="center">
-  <a href="httsp://github.com/sunaif-adkar2/">
-    <img src="https://img.shields.io/github/repo-size/sunaif-adkar2/WABOT-SA-3?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/sunaif-adkar2/followers"><img title="Followers" src="https://img.shields.io/github/followers/sunaif-adkar2?color=blue&style=flat-square"></a>
-<a href="https://github.com/sunaif-adkar2/WABOT-SA-3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sunaif-adkar2/WABOT-SA-3?color=blue&style=flat-square"></a>
-<a href="https://github.com/sunaif-adkar2/WABOT-SA-3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sunaif-adkar2/WABOT-SA-3?color=blue&style=flat-square"></a>
-<a href="https://github.com/sunaif-adkar2/WABOT-SA-3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sunaif-adkar2/WABOT-SA-3?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-</p>
-
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>

@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/555d3c58204893763b839.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="sa-bots" src="https://img.shields.io/badge/sunaifnfc-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="sa-bots" src="https://img.shields.io/badge/sunaif-adkar-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/sunaifnfc"><img title="Author" src="https://img.shields.io/badge/Author-sunaifnfc/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/sunaif-adkar2"><img title="Author" src="https://img.shields.io/badge/Author-sunaif-adkar2/WABOT-SA-3?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/sunaif-adkar">sunaif-adkar</a> to
 ----
 
   <p align="center">
-  <a href="httsp://github.com/sunaifnfc/JulieMwol">
-    <img src="https://img.shields.io/github/repo-size/sunaifnfc/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/sunaif-adkar2/">
+    <img src="https://img.shields.io/github/repo-size/sunaif-adkar2/WABOT-SA-3?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/sunaifnfc?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/sunaif-adkar2/followers"><img title="Followers" src="https://img.shields.io/github/followers/sunaif-adkar2?color=blue&style=flat-square"></a>
+<a href="https://github.com/sunaif-adkar2/WABOT-SA-3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sunaif-adkar2/WABOT-SA-3?color=blue&style=flat-square"></a>
+<a href="https://github.com/sunaif-adkar2/WABOT-SA-3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sunaif-adkar2/WABOT-SA-3?color=blue&style=flat-square"></a>
+<a href="https://github.com/sunaif-adkar2/WABOT-SA-3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sunaif-adkar2/WABOT-SA-3?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
